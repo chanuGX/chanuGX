@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Chanupa Gurusinghe</h1>
-<h3 align="center">A CSE undergraduate at University of Moratuwa. I enjoy working on software projects that blend creativity and functionality, and I'm always looking to expand my knowledge in areas like web development.</h3>
+<h3 align="center">A CSE undergraduate at the University of Moratuwa, with a strong interest in developing software projects that blend creativity and functionality. I am continually expanding my knowledge, particularly in areas such as web development.</h3>
 
 <p align="left">
 </p>
